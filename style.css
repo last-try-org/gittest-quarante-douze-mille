@@ -3,3 +3,13 @@ h1
     background-color: black;
     color: white;
 }
+p
+{
+    color: orange;
+    background-color: green;
+}
+h1,p
+{
+    background-color: black;
+    color: red;
+}
